@@ -8,7 +8,7 @@
 * name: Maythiya Kaemnin
 
 ## technology: 
-[pygame/streamlit]
+streamlit
 
 ## appication decription:
 
