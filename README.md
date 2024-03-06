@@ -13,7 +13,7 @@ streamlit
 ## appication decription:
 
 ## presentation: 
-[slide/powerpoint] link [public/ubu]
+[slide/canva] link [public/ubu]
 
 ## video: 
 link[public/ubu]
