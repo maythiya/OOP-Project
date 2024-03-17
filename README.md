@@ -17,4 +17,4 @@ streamlit
 https://www.canva.com/design/DAF-2GCe2X0/fWPAW-W5RBf4RAHyp5RpDg/edit?utm_content=DAF-2GCe2X0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## video link[public/ubu]:
--
+https://www.canva.com/design/DAF-2GCe2X0/3GUxsyDe0h8x7EA4CXGqng/view?utm_content=DAF-2GCe2X0&utm_campaign=designshare&utm_medium=link&utm_source=recording_view
