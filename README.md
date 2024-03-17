@@ -14,7 +14,7 @@ streamlit
 รายละเอียดโครงงาน เกี่ยวกับประวัติของกลุ่มและบุคคล
 
 ## presentation [slide/canva] link [public/ubu]:
-https://www.canva.com/design/DAF-2GCe2X0/fWPAW-W5RBf4RAHyp5RpDg/edit?utm_content=DAF-2GCe2X0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://drive.google.com/file/d/1CbFR_luIlmxJaFCoAYYG64q7M_5Lsl3r/view?usp=drive_link
 
 ## video link[public/ubu]:
-https://www.canva.com/design/DAF-2GCe2X0/3GUxsyDe0h8x7EA4CXGqng/view?utm_content=DAF-2GCe2X0&utm_campaign=designshare&utm_medium=link&utm_source=recording_view
+https://drive.google.com/file/d/1RUwuPftlRklm5heEQ8FvvoD-1E8YiA7E/view?usp=drive_link
